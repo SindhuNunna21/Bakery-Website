@@ -1,0 +1,244 @@
+.navbar{
+    margin: auto;
+    width: 100%;
+    background-color: #4d3125;
+}
+
+ul.navbar.expand {
+    list-style: none;
+    color: white;
+    width: 73%;
+    margin-left: 150px;
+}
+
+.row.contents {
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 12px 0px;
+}
+
+input.search-form {
+    padding: 5px 10px 6px 20px;
+    border: none;
+    background: #eed9bff5;
+    border-radius: 29px;
+    margin-bottom: 20px;
+    margin-top: 26px;
+}
+
+.w-100 {
+    width: 100% !important;
+    margin-top: -9px;
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: transparent !important;
+}
+
+li.nav-item{
+    width: 200px;
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+    padding-top: 10px;
+
+}
+
+p{
+    font-family: sans-serif;
+}
+
+
+
+.row.line{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    background: #deb88740;
+    padding: 40px 0px 40px 0px;
+}
+
+.col-md-3.cake{
+    background: burlywood;
+    color: #4d3125;
+    /* width: fo; */
+    font-size: 21px;
+    padding: 10px;
+    text-align: center;
+    /* margin-right: 10px; */border-top-left-radius: 27px;
+    /* box-shadow: rgb(220 181 132) 0px 7px 29px 0 */
+}
+.col-md-3.cake1{
+    background: #4d3124;
+    color: white;
+    font-size: 21px;
+    padding: 10px;
+    text-align: center;
+    /* margin-right: 10px; */
+    box-shadow: rgb(139 94 97) 0px 7px 29px 0;
+}
+.col-md-3.cake2{
+    background: burlywood;
+    color: #4d3125;
+    /* width: fo; */
+    font-size: 21px;
+    padding: 10px;
+    text-align: center;
+    /* margin-right: 10px; */border-top-right-radius: 27px;box-shadow: rgb(220 181 132) 0px 7px -10px 0
+}
+
+.col-md-3.cupcake{
+    background: burlywood;
+    color: #4d3125;
+    /* width: fo; */
+    font-size: 21px;
+    padding: 10px;
+    text-align: center;
+    width: 17.2%;
+}
+
+
+.col-md-3.cookie{
+    background: burlywood;
+    color: #4d3125;
+    /* width: fo; */
+    font-size: 21px;
+    padding: 10px;
+    text-align: center
+    
+}
+
+.col-md-3.bread{
+    background: burlywood;
+    color: #4d3125;
+    /* width: fo; */
+    font-size: 21px;
+    padding: 10px;
+    text-align: center
+}
+
+img.card-img-top.man{
+    width: 20%;
+    padding-left: 20px;
+}
+
+img.card-img-top {
+    width: 30%;
+}
+
+img.logo {
+    width: 76%;
+    padding: 7px 0px 0px 0px;
+}
+
+ul.navbar-nav.me-auto.mb-2 {
+    gap: 1rem;
+    width: 40%;
+}
+
+
+.navbar-parent {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100% !important;
+    background: #e5bd9a;
+    border-radius: 63px;
+    margin-top: 31px !important;
+    padding: 5px 20px 5px 20px;
+}
+
+h1.about.heading {
+    font-family: initial;
+    font-size: 58px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #984f10 !important;
+    padding-bottom: 10px !important;
+    letter-spacing: 1px;
+    color: #b96c2a;
+}
+
+h2.tagline {
+    font-size: 35px;
+    padding-bottom: 16px;
+}
+
+p#text {
+    color: #8d5036;
+    font-weight: 600;
+    display: block;
+}
+
+.cake-about-img{
+    width: 80%;
+}img.card-img-top.personimg {
+    width: 14%;
+    padding: 19px 0px 0px 20px;
+}h5.card-title.person {
+    font-size: 35px;
+    font-family: cursive;
+    color: #4d3124;
+}p.card-text.review {
+    color: black;
+    font-size: 13px;
+    font-family: cursive;
+    margin-top: 15px;
+}.card.h-100.border {
+    background-image: linear-gradient(to right, #deb887, #d3b683, #cbaa6e, #ba9a57, #967941);
+    padding: 0px 30px 10px 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, }
+
+    img.card-img-top.recipeimg {
+        width: 100%;
+        padding-top: 0px;
+    }
+
+    p.card-text.heading {
+        font-weight: bold;
+        color: #4c3024;
+        /* background-color: burlywood; */
+        /* padding-left: 6px; */
+    }
+
+    button.btn {
+        background-color: #4c3024;
+        color: white;
+    }.card.h-100.blogborder {
+        background-color: #deb88787;
+    }
+
+    .submit {
+        display: flex;
+        justify-content: center;
+    }
+
+    button.submitbtn {
+        background-color: #4c3023;
+        color: white;
+        width: 23%;
+        border-radius: 4rem;
+    }input.contactinfo {
+        width: 95%;
+        padding: 5px 10px 6px 20px;
+        border: none;
+        background: #eed9bf9e;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }form.details {
+        margin-left: 80px;
+    }.footersec {
+        background: #4c3023;
+        border-bottom: 34px solid burlywood;
+        padding: 5px 0px 20px 0px;
+    }
+
+    a.navitem.expand  {
+        text-decoration: none;
+        color: white;
+    }
